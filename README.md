@@ -39,8 +39,8 @@ This assignment has 12 tasks:
 
 Before continuing, make sure that these tasks are completed!
 
-- [x] Has a Vite+React project folder with a built `dist/` folder
-- [x] The vite project `.gitignore` file does NOT include `dist`
+- [ ] Has a Vite+React project folder with a built `dist/` folder
+- [ ] The vite project `.gitignore` file does NOT include `dist`
 - [x] Has a `server` folder with an `index.js` file and a `package.json` file inside
 - [x] `package.json` has `express` installed as a dependency and `nodemon` as a dev dependency
 - [x] `package.json` has a `"dev"` script that uses `nodemon` and a `"start"` script that uses `node`
